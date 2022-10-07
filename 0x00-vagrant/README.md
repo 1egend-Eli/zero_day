@@ -1,0 +1,1 @@
+the fuunction of uname
